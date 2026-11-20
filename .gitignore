@@ -1,0 +1,22 @@
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers des éditeurs
+.vscode/
+.idea/
+
+# Dépendances locales
+node_modules/
+vendor/
+
+# Environnement Python
+venv/
+__pycache__/
+.env
